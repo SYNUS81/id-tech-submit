@@ -2,7 +2,7 @@
 
  Add short description of project here > this project generates numbers in different sizes and shapes
 
-![add image descrition here](direct image link here)
+
 
 ## The Algorithm
 
@@ -25,4 +25,4 @@ Converts the integer labels to one-hot encoded labels, which are arrays with a 1
 (test_images /= 255) values to ge a different shape.
 2. no required libraries
 
-[View a video explanation here][video link](https://youtu.be/Y6-yngzlN2M)
+[View a video explanation here](https://youtu.be/Y6-yngzlN2M)
