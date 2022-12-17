@@ -27,3 +27,6 @@ Converts the integer labels to one-hot encoded labels, which are arrays with a 1
 3. install protobuf==3.19.6 (only for python 3.6)
 
 [View a video explanation here](https://youtu.be/Y6-yngzlN2M)
+
+NOTES
+it wasnt possible to get the notebook working, so had to resort to google colabs.
