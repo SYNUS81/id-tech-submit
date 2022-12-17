@@ -23,6 +23,6 @@ Converts the integer labels to one-hot encoded labels, which are arrays with a 1
 
 1. if you would like to run the project without changing anything, press run. if you would like to get a separate output, change the (train_images /= 255) and the 
 (test_images /= 255) values to ge a different shape.
-2. no required libraries
+2. tensorflow is needed
 
 [View a video explanation here](https://youtu.be/Y6-yngzlN2M)
